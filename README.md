@@ -3,3 +3,7 @@ Hello everyone, my name is Amit Kumar and I have built a fins controlled rocket 
 
 
 ![PHOTO ONE](https://github.com/PIEspace/FIN-CONTROLLED-ROCKET-LEARNING-PURPOSE/assets/134577378/d35cb131-dc8f-4588-ac0d-dd220929d212)
+
+YouTube Video
+
+https://youtu.be/3pH9N299O5g?si=yNXTK6honMupHDBz
